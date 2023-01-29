@@ -73,7 +73,6 @@ drivers() # Drivers information
 add_driver() # Add driver
 ```
 
-### For more information, see our web docs [here](https://okayge.xyz)
 
 ## Support
 
